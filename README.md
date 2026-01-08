@@ -102,7 +102,6 @@ The music player includes 30 songs from various artists and genres:
 │   ├── js/
 │   │   └── app.js         # JavaScript functionality
 │   └── music/             # MP3 files (30 songs)
-├── Java-Script/           # Additional directory
 └── README.md              # This file
 ```
 
