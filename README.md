@@ -110,7 +110,7 @@ The music player includes 30 songs from various artists and genres:
 
 This project was created during the Bootcamp at Tipti by:
 - **Majo Castro**
-- **Harshit**
+- **Harshit Mahendra**
 
 ## License
 
