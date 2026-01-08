@@ -47,35 +47,35 @@ This project is a fully functional music player built using JavaScript, HTML, an
 The music player includes 30 songs from various artists and genres:
 
 - Apache 200 kmh
+- Bajo el mismo Sol-Alvaro Soler
+- Be Mine-Offenbach
+- Centuries-Fall Out Boy
+- Counting Stars-One Republic
 - Dream On - Aerosmith
-- Wien - Mayberg
+- Fair Trade-Drake
+- Gimme!Gimme!Gimme!-ABBA
+- God´s Plan-Drake
+- High Enough-K.Flay
+- Hotline Bling-Drake
+- I think I like it-Fake Blood
+- I was made for lovin´you -KISS
+- Joro-Wizkid
 - Kill em with Kindness - Selena Gomez
-- Slow Down - Selena Gomez
+- Memories-David Guetta
 - Morad - Bzrp
-- God's Plan - Drake
-- Fair Trade - Drake
-- Non Stop - Drake
-- Gimme! Gimme! Gimme! - ABBA
-- I was made for lovin' you - KISS
-- Be Mine - Offenbach
-- Temperature - Sean Paul
-- Pon de Replay - Rihanna
-- Young, Wild & Free - Snoop Dog
-- Unforgettable - French Montana
-- High Enough - K.Flay
-- Bajo el mismo Sol - Alvaro Soler
-- Sexy Bitch - David Guetta
-- Memories - David Guetta
-- I think I like it - Fake Blood
-- No Lie - Sean Paul
-- Hotline Bling - Drake
-- Joro - Wizkid
-- Roller - Apache
-- Radioactive - Imagine Dragons
-- Counting Stars - One Republic
-- Centuries - Fall Out Boy
-- The Time - Black Eyed Peas
-- Pursuit of happiness - Steve Aoki
+- No Lie-Sean Paul
+- Non Stop-Drake
+- Pon de Replay-Rihanna
+- Pursuit of happiness-Steve Aoki
+- Radioactive-Imagine Dragons
+- Roller-Apache
+- Sexy Bitch-David Guetta
+- Slow Down - Selena Gomez
+- Temperature-Sean Paul
+- The Time-Black Eyed Peas
+- Unforgettable-French Montana
+- Wien - Mayberg
+- Young,Wild & Free-Snoop Dog
 
 ## How to Use
 
@@ -94,14 +94,16 @@ The music player includes 30 songs from various artists and genres:
 
 ```
 .
-├── Music Player.html      # Main HTML file
+├── Music Player.html      # Main HTML file (at root level)
 ├── Music Player/
+│   ├── Music Player.html  # Alternative HTML file
 │   ├── css/
-│   │   └── style.css     # Custom styles
+│   │   └── style.css      # Custom styles
 │   ├── js/
-│   │   └── app.js        # JavaScript functionality
-│   └── music/            # MP3 files (30 songs)
-└── README.md             # This file
+│   │   └── app.js         # JavaScript functionality
+│   └── music/             # MP3 files (30 songs)
+├── Java-Script/           # Additional directory
+└── README.md              # This file
 ```
 
 ## Credits
